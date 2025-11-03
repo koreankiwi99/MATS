@@ -10,8 +10,8 @@
 - Performed line-by-line code refinements and optimizations
 
 3. Claude (task 2) 
-- check reading comprehension \& brainstorming : https://claude.ai/share/87f99408-13a4-4608-aef1-29a94dfb788d
-- grammar check \& shorten sentences: https://claude.ai/share/86c03f98-767e-4217-9bcb-266ccb92472c
+- For checking reading comprehension \& brainstorming : https://claude.ai/share/87f99408-13a4-4608-aef1-29a94dfb788d
+- For checking grammar \& shortening sentences: https://claude.ai/share/86c03f98-767e-4217-9bcb-266ccb92472c
 
 Apart from the AI-assisted tasks listed above, all other development work was completed independently.
 
