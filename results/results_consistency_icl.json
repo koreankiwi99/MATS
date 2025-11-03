@@ -1,0 +1,28 @@
+{
+  "consistency_icl_trials": [
+    {
+      "seed": 42,
+      "accuracy": 0.71,
+      "train_label_accuracy_initial": 0.53125,
+      "train_label_accuracy_fixed": 0.54296875,
+      "inconsistencies_initial": 134,
+      "inconsistencies_fixed": 0
+    },
+    {
+      "seed": 123,
+      "accuracy": 0.81,
+      "train_label_accuracy_initial": 0.50390625,
+      "train_label_accuracy_fixed": 0.48046875,
+      "inconsistencies_initial": 144,
+      "inconsistencies_fixed": 0
+    },
+    {
+      "seed": 456,
+      "accuracy": 0.67,
+      "train_label_accuracy_initial": 0.46875,
+      "train_label_accuracy_fixed": 0.45703125,
+      "inconsistencies_initial": 154,
+      "inconsistencies_fixed": 0
+    }
+  ]
+}

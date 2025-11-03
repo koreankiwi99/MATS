@@ -45,6 +45,9 @@ pdf/
 # Task 2 (not part of submission)
 CRITIQUE_DRAFT.md
 
+# Logs
+*.log
+
 # Outputs
 outputs/
 wandb/
