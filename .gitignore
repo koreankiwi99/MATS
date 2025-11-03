@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment variables
+.env
+SECRETS
+*api_key*
+
+# Databases
+*.db
+*.sqlite
+
+# References
+Unsupervised-Elicitation/
+pdf/
+
+# Task 2 (not part of submission)
+CRITIQUE_DRAFT.md
+
+# Outputs
+outputs/
+wandb/
