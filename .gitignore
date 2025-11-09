@@ -40,7 +40,8 @@ SECRETS
 
 # References
 Unsupervised-Elicitation/
-pdf/
+pdf/instruction.pdf
+pdf/paper.pdf
 
 # Task 2 (not part of submission)
 CRITIQUE_DRAFT.md

@@ -1,5 +1,13 @@
 # Simplified ICM on TruthfulQA
 
+Implementation of the Internal Coherence Maximization (ICM) algorithm for unsupervised elicitation on TruthfulQA, completed as part of the MATS Program work test (November 2024). This submission advanced to the interview phase.
+
+## Original Paper & Repository
+
+**Paper**: [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139) (Wen et al., 2025)
+
+**Official Repository**: [https://github.com/anthropics/evals](https://github.com/anthropics/evals)
+
 ### AI Usage
 1. Claude Code (task 1)
 - Conducted original repository review and generated CORE_FUNCTIONS_ANALYSIS.md
