@@ -6,7 +6,7 @@ Implementation of the Internal Coherence Maximization (ICM) algorithm for unsupe
 
 **Paper**: [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139) (Wen et al., 2025)
 
-**Official Repository**: [https://github.com/anthropics/evals](https://github.com/anthropics/evals)
+**Reference Repository**: [Jiaxin-Wen/Unsupervised-Elicitation](https://github.com/Jiaxin-Wen/Unsupervised-Elicitation)
 
 ### AI Usage
 1. Claude Code (task 1)
