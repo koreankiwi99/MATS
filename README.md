@@ -1,6 +1,6 @@
 # Simplified ICM on TruthfulQA
 
-Implementation of the Internal Coherence Maximization (ICM) algorithm for unsupervised elicitation on TruthfulQA, completed as part of the MATS Program work test (November 2024). This submission advanced to the interview phase.
+Implementation of the Internal Coherence Maximization (ICM) algorithm for unsupervised elicitation on TruthfulQA, completed as part of the MATS 9.0 Program work test and interview. This submission advanced to the interview phase.
 
 ## Original Paper & Repository
 
